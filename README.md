@@ -4,4 +4,7 @@
 [comment]: <> (<h3 align="left">Languages and Tools:</h3>)
 
 
-[ [Wondonghwi의 github 통계] (https://github-readme-stats.vercel.app/api ? username = wondonghwi )] (https://github.com/anuraghazra/github-readme-stats)
+github-readme-stats.vercel.app/api/top-langs/?username={wondonghwi}&langs_count=8
+
+
+
