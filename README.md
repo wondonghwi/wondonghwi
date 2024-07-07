@@ -1,7 +1,7 @@
 ## Contributions to open sources
 
 - Libraries
-  - [estoolkit](https://github.com/toss/estoolkit/issues?q=involves%3Assi02014+)
+  - [estoolkit](https://github.com/toss/es-toolkit/issues?q=is%3Aissue+is%3Aclosed)
 
 ## Contribution Activity
 
