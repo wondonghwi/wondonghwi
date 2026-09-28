@@ -5,4 +5,4 @@
 
 ## Contribution Activity
 
-![wondonghwi's github stats](https://github-readme-stats.vercel.app/api?username=wondonghwi&show_icons=true&theme=radical)
+![wondonghwi's github stats](./profile/stats.svg)
