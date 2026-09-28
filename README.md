@@ -11,4 +11,8 @@
 
 ## Contribution Activity
 
-![wondonghwi's github stats](./profile/stats.svg)
+<!-- Dark mode -->
+[![wondonghwi's live GitHub contribution graph](https://github.pumbas.net/api/contributions/wondonghwi?days=30&colour=58A6FF&bgColour=161B22&dotColour=C9D1D9#gh-dark-mode-only)](https://github.com/pumbas600/github-contributions#gh-dark-mode-only)
+
+<!-- Light mode -->
+[![wondonghwi's live GitHub contribution graph](https://github.pumbas.net/api/contributions/wondonghwi?days=30&colour=0969DA&bgColour=FFFFFF&dotColour=57606A#gh-light-mode-only)](https://github.com/pumbas600/github-contributions#gh-light-mode-only)
